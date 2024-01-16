@@ -1,10 +1,9 @@
 github_users:
-  - martinbulla
+  - slizarazo21
+  
 
 github_repos:
-  - martinbulla/ruff_sperm_v2
-  - martinbulla/avian_FID_covid
-  - martinbulla/Exchange_behaviour_incubating_SESA
-  - martinbulla/RWLE_predation_timing
-  - martinbulla/Still_no_evidence
-  - martinbulla/many_analysts
+  - VanBortleLab/dominatR
+  - VanBortleLab/LADFreq
+  - slizarazo21/STAT447_UnsupervisedLearning
+  - slizarazo21/STAT542_StatisticalLearning
