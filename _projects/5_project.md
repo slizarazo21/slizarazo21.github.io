@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gene sequence similarity
+title: Gene Sequence Similarity
 description: How similar is the sequence of two genes
 img: assets/img/4.jpg
 importance: 5
