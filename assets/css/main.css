@@ -46,17 +46,17 @@
 
 html[data-theme=dark] {
     --global-bg-color: #000000;
-    --global-code-bg-color: rgb(109, 165, 46);
+    --global-code-bg-color: rgb(214, 221, 244);
     --global-text-color: #fff;
     --global-text-color-light: #fff;
-    --global-theme-color: #f8d300;
-    --global-hover-color: #efcc00;
+    --global-theme-color: #00a5f8;
+    --global-hover-color: #00a5f8;
     --global-hover-text-color: #fff;
     --global-footer-bg-color: #fff;
     --global-footer-text-color: #424242;
     --global-footer-link-color: #000;
     --global-distill-app-color: #fff;
-    --global-divider-color: #d8a61b;
+    --global-divider-color: #1b3ed8;
     --global-card-bg-color: #212529;
     --global-tip-block: #42b983;
     --global-tip-block-bg: #e2f5ec;
