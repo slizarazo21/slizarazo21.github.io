@@ -551,7 +551,7 @@ footer.sticky-bottom {
 }
 
 .projects .card-item {
-    width: auto;
+    width: 100%;
     margin-bottom: 10px
 }
 
@@ -560,15 +560,10 @@ footer.sticky-bottom {
     align-items: center
 }
 
-.projects .grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Adjusts number of columns based on container size */
-    grid-gap: 20px; /* Adjust the gap as needed */
-    align-items: stretch; /* Optional: for equal height */
-}
-
+.projects .grid-sizer,
 .projects .grid-item {
-    margin-bottom: 10px; /* Maintains bottom margin */
+    width: 250px;
+    margin-bottom: 10px
 }
 
 .projects h2.category {
